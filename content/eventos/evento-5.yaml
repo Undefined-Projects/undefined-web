@@ -1,0 +1,8 @@
+nombre: "[Nombre del evento 5]"
+fecha: "2027-01-22"
+hora: "[Hora]"
+lugar: "[Lugar]"
+formato: "[Formato]"
+descripcion: "[Descripción breve: de qué trata y para quién es.]"
+registro: "https://example.com/registro"
+destacado: false

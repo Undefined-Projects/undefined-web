@@ -1,0 +1,11 @@
+mision: "[Texto de misión: qué hacemos, para quién y cómo.]"
+vision: "[Texto de visión: el futuro que queremos construir.]"
+valores:
+  - nombre: "[Valor 1]"
+    descripcion: "[Qué significa este valor para el club.]"
+  - nombre: "[Valor 2]"
+    descripcion: "[Qué significa este valor para el club.]"
+  - nombre: "[Valor 3]"
+    descripcion: "[Qué significa este valor para el club.]"
+  - nombre: "[Valor 4]"
+    descripcion: "[Qué significa este valor para el club.]"
